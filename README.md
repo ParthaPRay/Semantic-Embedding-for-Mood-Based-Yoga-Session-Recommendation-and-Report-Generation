@@ -177,8 +177,9 @@ This repo shows the codes for Semantic Embedding for Mood-Based Yoga Session Rec
 
 ---
 
-### Sample PDF Report
+### Sample PDF Report on Mood Based Yoga Asana 
 
-![image](https://github.com/user-attachments/assets/f0a8f350-cc33-4002-b0de-b4d067a19afd)
+![image](https://github.com/user-attachments/assets/184291fe-3d64-4723-9f34-157b2ef75929)
+
 
 
