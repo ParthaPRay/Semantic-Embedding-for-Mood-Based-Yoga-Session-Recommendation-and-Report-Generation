@@ -1,8 +1,6 @@
 # Semantic-Embedding-for-Mood-Based-Yoga-Session-Recommendation-and-Report-Generation
 This repo shows the codes for Semantic Embedding for Mood-Based Yoga Session Recommendation and Report Generation
 
-# Localized LLM-Aware Semantic Embedding for Mood-Based Yoga Session Recommendation and Report Generation
-
 ## Detailed Step-by-Step Workflow
 
 ---
@@ -178,4 +176,9 @@ This repo shows the codes for Semantic Embedding for Mood-Based Yoga Session Rec
 - Test endpoints using tools like `curl` or Postman to ensure end-to-end functionality.
 
 ---
+
+### Sample PDF
+
+![image](https://github.com/user-attachments/assets/f0a8f350-cc33-4002-b0de-b4d067a19afd)
+
 
