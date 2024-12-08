@@ -1,6 +1,38 @@
 # Semantic-Embedding-for-Mood-Based-Yoga-Session-Recommendation-and-Report-Generation
 This repo shows the codes for Semantic Embedding for Mood-Based Yoga Session Recommendation and Report Generation
 
+---
+
+
+# Ollama Installation
+
+curl -fsSL https://ollama.com/install.sh | sh
+
+Then use required LLMs and Embeddings from Ollama
+
+# Setup
+
+1. Python3 venv -m yoga
+2. source yoga/bin/activate
+3. pip install -r requirements
+
+
+# Run the Server Code on FastAP
+Python3 mood_9.py
+
+# Run the Client Code
+
+From same project directory run
+
+python3 curl_caller_mood.py
+
+# Result 
+
+1. A directory called **reports** is generated with PDF reports based on mood which was given in the prompts as mentioned in **curl_caller_mood.py**
+2. A CSV file for metrics analysis is generated **yoga_asana_metrics.csv**
+
+---
+
 ## Detailed Step-by-Step Workflow
 
 ---
