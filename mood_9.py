@@ -39,11 +39,11 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Configuration Variables
-EMBED_MODEL = "all-minilm:33m"   ### Change embed model
+EMBED_MODEL = "snowflake-arctic-embed:110m"   ### Change embed model
 OLLAMA_EMBED_API_URL = "http://localhost:11434/api/embed"
 OLLAMA_CHAT_API_URL = "http://localhost:11434/api/chat"  # Ollama Chat API Endpoint
 LLM_MODEL_NAME = "qwen2.5:0.5b-instruct"
-SIMILARITY_THRESHOLD = 0.4950  ### Change it as per embed model
+SIMILARITY_THRESHOLD = 0.66  ### Change it as per embed model
 
 REPORTS_DIR = "reports"
 os.makedirs(REPORTS_DIR, exist_ok=True)
