@@ -179,4 +179,3 @@ This repo shows the codes for Semantic Embedding for Mood-Based Yoga Session Rec
 
 ---
 
-This workflow ensures clarity and granularity in every step, from user input to PDF report generation and metrics logging.
