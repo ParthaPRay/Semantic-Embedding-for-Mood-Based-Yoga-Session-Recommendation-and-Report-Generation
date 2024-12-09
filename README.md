@@ -1,9 +1,8 @@
-# Semantic-Embedding-for-Mood-Based-Yoga-Session-Recommendation-and-Report-Generation
+# Semantic-Embedding-for-Mood-Based-Yoga-Session-Recommendation-and-Report-Generation-Proof-of-Concept
 This repo shows the codes for Semantic Embedding for Mood-Based Yoga Session Recommendation and Report Generation
 
 ---
 
-# Proof of Concept
 
 # Ollama Installation
 
