@@ -222,11 +222,14 @@ Look into the **web_integration** directory and run the codes accordingly. The w
 
 When ready
 
-![image](https://github.com/user-attachments/assets/96febdd3-efde-43b4-aff1-20f4352ebd4c)
+![image](https://github.com/user-attachments/assets/aea74109-9a9c-4f5c-9b71-eb0751fc0d4b)
+
 
 When got response
 
-![image](https://github.com/user-attachments/assets/193969b3-7d5a-48a9-bcce-fb7bad4ec096)
+![image](https://github.com/user-attachments/assets/99b5a47f-bf92-4a29-b2de-9a4f41618064)
+
+Sometimes, if output is not suitable, just re-**SUBMIT**
 
 
 **Example**
