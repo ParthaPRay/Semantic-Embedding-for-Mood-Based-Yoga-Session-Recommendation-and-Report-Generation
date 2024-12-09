@@ -3,6 +3,7 @@ This repo shows the codes for Semantic Embedding for Mood-Based Yoga Session Rec
 
 ---
 
+### Proof of Concept
 
 # Ollama Installation
 
@@ -238,20 +239,18 @@ Example query to be given as input into the gradio:
 
 Modify as per Detailed_Mood_Issue  column of mood_asana_details.csv file 
 
-•	I am feeling anxious, nervous, or uneasy often experience persistent worry, restlessness, and a sense of impending trouble. 
+•	I'm feeling guilty and remorseful. 
 
-Match with expected output with Mood_Issue column of respective row from mood_asana_details.csv file. Expected Asana: Child Pose (Balasana)
+•	Irritability is affecting my mood.
 
-•	I am suffering from insomnia, sleep issues, or nighttime restlessness often face difficulty falling or staying asleep, leading to fatigue and irritability during the day.
+•	Dealing with restlessness and impatience.
 
-Match with expected output with Mood_Issue column of respective row from mood_asana_details.csv file. Expected Asana: Corpse Pose (Savasana)
+•	Agitation is making me restless.
 
-•	I am dealing with lack of focus, distractibility, or mental fog struggles to concentrate and process information effectively. 
-
-Match with expected output with Mood_Issue column of respective row from mood_asana_details.csv file. Expected Asana: Tree Pose (Vrksasana)
+•	I'm feeling lonely and isolated.
 
 
-Etc…
+etc…
 
 
 
