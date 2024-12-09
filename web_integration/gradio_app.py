@@ -104,7 +104,7 @@ with gr.Blocks(css="""
     # Title and Description
     gr.Markdown("<h1 class='title'>🧘‍♂️ Mood-Based Yoga Asana Recommendation</h1>")
     gr.Markdown("### Tell us about your current mood status, and we'll recommend a Yoga Asana for you!")
-
+    
     # Input Section
     with gr.Row():
         with gr.Column():

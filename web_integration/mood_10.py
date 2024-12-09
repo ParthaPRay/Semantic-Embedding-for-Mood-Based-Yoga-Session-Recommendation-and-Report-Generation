@@ -104,11 +104,17 @@ class YogaAsana:
     
     
 # Predefined Yoga Asanas
+# Revised Yoga Asanas with Enhanced Utterances
+# Revised Yoga Asanas with Enhanced Utterances
 yoga_asanas = [
     YogaAsana(
         name="Child Pose (Balasana)",
         utterances=[
-            "Individuals feeling anxious, nervous, or uneasy often experience persistent worry, restlessness, and a sense of impending trouble. This state hinders overall well-being and peace of mind."
+            "I feel anxious and uneasy.",
+            "Nervousness is overwhelming me.",
+            "Persistent worry makes me restless.",
+            "Feeling a sense of impending trouble.",
+            "Experiencing anxiety and nervous tension."
         ],
         how_to_do="1. Kneel on the mat with big toes touching and knees spread apart.\n"
                   "2. Sit back on your heels and extend your arms forward, lowering your torso between your thighs.\n"
@@ -122,7 +128,11 @@ yoga_asanas = [
     YogaAsana(
         name="Downward Facing Dog (Adho Mukha Svanasana)",
         utterances=[
-            "When overwhelmed by stress, tension, or overload, a person may feel pressured, fatigued, and unable to cope with responsibilities."
+            "I'm stressed and feeling overloaded.",
+            "Tension in my body makes me anxious.",
+            "Feeling overwhelmed by my responsibilities.",
+            "Constant stress is weighing me down.",
+            "Dealing with high levels of stress and tension."
         ],
         how_to_do="1. Start on all fours with hands shoulder-width apart.\n"
                   "2. Lift your hips towards the ceiling, forming an inverted V-shape.\n"
@@ -136,7 +146,11 @@ yoga_asanas = [
     YogaAsana(
         name="Camel Pose (Ustrasana)",
         utterances=[
-            "Experiencing depression, sadness, or a low mood involves persistent feelings of hopelessness, lack of energy, and disinterest in activities once enjoyed."
+            "I'm feeling depressed and sad.",
+            "Low mood is affecting my daily life.",
+            "Feeling hopeless and lacking energy.",
+            "Experiencing persistent sadness and remorse.",
+            "Dealing with depression and regret."
         ],
         how_to_do="1. Kneel on the mat with knees hip-width apart.\n"
                   "2. Place your hands on your lower back for support.\n"
@@ -151,9 +165,13 @@ yoga_asanas = [
     YogaAsana(
         name="Corpse Pose (Savasana)",
         utterances=[
-            "Those suffering from insomnia, sleep issues, or nighttime restlessness often face difficulty falling or staying asleep, leading to fatigue and irritability during the day."
+            "I'm struggling with insomnia.",
+            "Having trouble sleeping at night.",
+            "Feeling restless when trying to sleep.",
+            "Unable to fall asleep easily.",
+            "Sleep issues are affecting my health."
         ],
-        how_to_do="1. Lie flat on your back with arms at your sides, palms facing up.\n"
+        how_to_do="1. Lie flat on your back with legs extended and arms at your sides, palms facing up.\n"
                   "2. Close your eyes and relax every part of your body.\n"
                   "3. Focus on your breath and remain still for 5-15 minutes.",
         frequency="Daily",
@@ -165,10 +183,14 @@ yoga_asanas = [
     YogaAsana(
         name="Upward Facing Dog (Urdhva Mukha Svanasana)",
         utterances=[
-            "Individuals experiencing low energy, fatigue, or exhaustion feel constantly drained, lacking the motivation to perform daily tasks."
+            "I have low energy and feel exhausted.",
+            "Feeling fatigued all the time.",
+            "Lacking confidence and self-doubt me.",
+            "Insecure and drained of energy.",
+            "Exhausted and lacking self-confidence."
         ],
-        how_to_do="1. Lie face down with legs together and tops of the feet pressing into the mat.\n"
-                  "2. Place your hands under your shoulders and press up, lifting your chest and thighs off the ground.\n"
+        how_to_do="1. Lie face down with legs together and hands under shoulders.\n"
+                  "2. Press into your hands to lift your chest and thighs off the ground.\n"
                   "3. Keep your shoulders down and gaze forward.\n"
                   "4. Hold for 15-30 seconds, then release.",
         frequency="5-7 days/week",
@@ -180,7 +202,11 @@ yoga_asanas = [
     YogaAsana(
         name="Tree Pose (Vrksasana)",
         utterances=[
-            "A person dealing with lack of focus, distractibility, or mental fog struggles to concentrate and process information effectively."
+            "I'm struggling with focus and concentration.",
+            "Distractibility is affecting my productivity.",
+            "Feeling mentally foggy and unfocused.",
+            "Difficulty concentrating on tasks.",
+            "Lack of focus is hindering my work."
         ],
         how_to_do="1. Stand tall with feet together.\n"
                   "2. Shift your weight onto the left foot and place the right foot on the inner left thigh or calf (avoid the knee).\n"
@@ -189,29 +215,36 @@ yoga_asanas = [
         frequency="4-6 days/week",
         timing="Morning & Afternoon",
         dietary="Include brain-boosting foods like blueberries and nuts, Ensure adequate hydration, Limit processed foods and sugars",
-        lifestyle="Practice time management, Minimize distractions, Engage in cognitive exercises like puzzles or reading",
+        lifestyle="Practice time management and focus techniques, Minimize distractions in your environment, Engage in cognitive exercises like puzzles or reading",
         benefits="Enhances concentration, Improves balance, Fosters grounding, Encourages mental discipline, Enhances coordination"
     ),
     YogaAsana(
         name="Revolved Triangle Pose (Parivrtta Trikonasana)",
         utterances=[
-            "Feeling angry, frustrated, or irritable involves frequent emotional outbursts, impatience, and a short temper."
+            "I'm feeling angry and frustrated.",
+            "Irritability is affecting my mood.",
+            "Dealing with constant frustration.",
+            "Feeling short-tempered and angry.",
+            "Anger makes me restless."
         ],
         how_to_do="1. Stand with feet wide apart.\n"
                   "2. Turn the right foot out 90 degrees and the left foot slightly inward.\n"
-                  "3. Extend arms to the sides and hinge at the hips to twist the torso towards the right, placing the left hand on the right shin or floor.\n"
-                  "4. Extend the right arm towards the ceiling.\n"
-                  "5. Hold for 30 seconds, then switch sides.",
+                  "3. Extend arms to the sides and hinge at the hips to twist the torso towards the right, placing the left elbow outside the right knee.\n"
+                  "4. Hold for 30 seconds, then switch sides.",
         frequency="3-5 days/week",
         timing="Afternoon",
-        dietary="Incorporate anti-inflammatory foods like leafy greens and turmeric, Avoid excessive caffeine and spicy foods",
-        lifestyle="Practice journaling or expressive writing, Engage in calming activities like listening to music, Develop anger management strategies",
-        benefits="Stimulates digestion, Enhances mental clarity, Stretches the hips and ankles, Releases tension, Fosters emotional balance"
+        dietary="Incorporate detoxifying foods like green tea and leafy vegetables, Avoid processed and fried foods",
+        lifestyle="Practice deep breathing and stress management techniques, Engage in problem-solving activities, Maintain a calm and organized environment",
+        benefits="Detoxifies the body, Enhances balance, Releases tension, Fosters a sense of calm, Encourages emotional balance"
     ),
     YogaAsana(
         name="Bridge Pose (Setu Bandhasana)",
         utterances=[
-            "Experiencing grief, sadness, or heartache encompasses deep emotional pain, longing, and sorrow."
+            "I'm experiencing deep grief and sadness.",
+            "Feeling heartache and emotional instability.",
+            "Mood swings are making me uneasy.",
+            "Dealing with emotional fluctuations and sadness.",
+            "Sadness and mood instability are overwhelming."
         ],
         how_to_do="1. Lie on your back with knees bent and feet flat on the floor, hip-width apart.\n"
                   "2. Press your feet and arms into the mat as you lift your hips toward the ceiling.\n"
@@ -219,14 +252,18 @@ yoga_asanas = [
                   "4. Hold for 30 seconds to 1 minute, then release slowly.",
         frequency="4-6 days/week",
         timing="Evening",
-        dietary="Incorporate mood-boosting foods like dark chocolate and berries, Avoid heavy or greasy foods",
+        dietary="Include mood-boosting foods like dark chocolate and berries, Avoid excessive junk food and alcohol",
         lifestyle="Allow time for emotional expression, Seek support from friends or a therapist, Engage in creative activities",
-        benefits="Reduces anxiety, Improves mood, Fosters emotional release, Calms the mind, Opens the heart"
+        benefits="Strengthens the body, Reduces anxiety, Enhances mood, Fosters emotional release, Promotes relaxation"
     ),
     YogaAsana(
         name="Cobra Pose (Bhujangasana)",
         utterances=[
-            "Those with self-esteem issues, low confidence, or insecurity often doubt their abilities, fear judgment, and avoid taking risks."
+            "I have low self-esteem and confidence.",
+            "Feeling insecure and doubtful about myself.",
+            "Struggling with self-confidence issues.",
+            "Insecurity is holding me back.",
+            "Lacking confidence in my abilities."
         ],
         how_to_do="1. Lie face down with legs together and hands under shoulders.\n"
                   "2. Press into your hands to lift your chest off the ground.\n"
@@ -241,7 +278,11 @@ yoga_asanas = [
     YogaAsana(
         name="Warrior III (Virabhadrasana III)",
         utterances=[
-            "Individuals feeling fear, insecurity, or apprehension experience heightened anxiety, uncertainty, and a sense of vulnerability."
+            "I'm feeling fearful and insecure.",
+            "Apprehension is affecting my confidence.",
+            "Dealing with fear and insecurity.",
+            "Insecurity makes me anxious.",
+            "Fear is holding me back."
         ],
         how_to_do="1. Stand on your left foot.\n"
                   "2. Hinge forward at the hips, extending the right leg straight back.\n"
@@ -250,14 +291,18 @@ yoga_asanas = [
                   "5. Hold for 20-30 seconds, then switch sides.",
         frequency="3-5 days/week",
         timing="Morning",
-        dietary="Incorporate foods rich in vitamin C and E for adrenal support, Avoid excessive caffeine and alcohol",
-        lifestyle="Practice self-affirmation and visualization, Engage in confidence-building activities, Limit exposure to fear-inducing stimuli",
+        dietary="Incorporate foods that support nervous system health like leafy greens and nuts, Avoid excessive caffeine and sugar",
+        lifestyle="Engage in resilience-building activities, Practice mindfulness and grounding techniques, Limit exposure to fear-inducing stimuli",
         benefits="Enhances balance, Builds resilience, Encourages mental discipline, Fosters grace and confidence, Improves coordination"
     ),
     YogaAsana(
         name="Supine Spinal Twist (Supta Matsyendrasana)",
         utterances=[
-            "Feeling overwhelmed, overloaded, or burnt out involves chronic stress, emotional exhaustion, and a sense of being unable to meet demands."
+            "I'm feeling overwhelmed and burnt out.",
+            "Overload is making me exhausted.",
+            "Burnout is affecting my well-being.",
+            "Feeling overloaded with responsibilities.",
+            "Overwhelmed and burnt out from work."
         ],
         how_to_do="1. Lie on your back with arms extended to the sides.\n"
                   "2. Bend your knees and drop them to the right while keeping shoulders on the mat.\n"
@@ -272,7 +317,11 @@ yoga_asanas = [
     YogaAsana(
         name="Lotus Pose (Padmasana)",
         utterances=[
-            "Those experiencing loneliness, isolation, or a lack of connection feel disconnected from others, leading to feelings of emptiness and sadness."
+            "I'm feeling lonely and isolated.",
+            "Lack of connection is making me sad.",
+            "Emotional instability is affecting me.",
+            "Dealing with mood disorders and turbulence.",
+            "Loneliness and emotional turmoil are overwhelming."
         ],
         how_to_do="1. Sit on the mat with legs extended.\n"
                   "2. Bend the right knee and place the right foot on the left thigh.\n"
@@ -286,9 +335,13 @@ yoga_asanas = [
         benefits="Enhances meditation, Cultivates inner peace, Promotes deep relaxation, Fosters emotional connection, Integrates practice benefits"
     ),
     YogaAsana(
-        name="CatCow Pose (Marjaryasana-Bitilasana)",
+        name="CatCow Pose (MarjaryasanaBitilasana)",
         utterances=[
-            "Feeling irritable, agitated, or tense involves constant irritability, heightened sensitivity, and a restless mind."
+            "I'm feeling irritable and tense.",
+            "Agitation is making me restless.",
+            "Dealing with constant tension and irritation.",
+            "Feeling tense and easily agitated.",
+            "Irritability and tension are affecting me."
         ],
         how_to_do="1. Start on all fours with wrists under shoulders and knees under hips.\n"
                   "2. Inhale, arching the back (Cow Pose), lifting the head and tailbone.\n"
@@ -296,16 +349,20 @@ yoga_asanas = [
                   "4. Repeat for 5-10 breaths.",
         frequency="5 days/week",
         timing="Morning & Evening",
-        dietary="Incorporate calming foods like chamomile tea and whole grains, Avoid spicy and processed foods",
-        lifestyle="Practice patience and mindfulness, Engage in calming activities like reading or listening to music, Use stress-relief techniques",
+        dietary="Incorporate stretching and hydration, Include anti-inflammatory foods like leafy greens and berries",
+        lifestyle="Practice regular stretching breaks, Maintain ergonomic workspace, Use relaxation techniques like deep breathing",
         benefits="Promotes mindfulness, Reduces tension, Releases back and hip tension, Fosters playfulness, Calms the mind"
     ),
     YogaAsana(
         name="Locust Pose (Salabhasana)",
         utterances=[
-            "Individuals with a lack of motivation, apathy, or low drive exhibit diminished enthusiasm, interest, and initiative."
+            "I lack motivation and feel apathetic.",
+            "Low drive is affecting my productivity.",
+            "Feeling apathetic and unmotivated.",
+            "Struggling with low drive and motivation.",
+            "Apathy makes it hard to stay active."
         ],
-        how_to_do="1. Lie face down with arms alongside the body, palms facing down.\n"
+        how_to_do="1. Lie face down with legs together and arms alongside the body, palms facing down.\n"
                   "2. Inhale and lift your head, chest, arms, and legs off the ground.\n"
                   "3. Keep your gaze forward and hold for 20-30 seconds.\n"
                   "4. Exhale and release.",
@@ -318,8 +375,11 @@ yoga_asanas = [
     YogaAsana(
         name="Fish Pose (Matsyasana)",
         utterances=[
-            "Experiencing shyness, social anxiety, or timidity involves fear of judgment, reluctance to engage in social interactions, and discomfort in group settings.",
-            "Individuals experiencing shame, embarrassment, or humiliation feel intense self-consciousness, inadequacy, and a desire to hide."
+            "I'm feeling shy and socially anxious.",
+            "Dealing with timidity and embarrassment.",
+            "Feeling ashamed and humiliated.",
+            "Social anxiety makes me nervous.",
+            "Shyness and embarrassment are overwhelming."
         ],
         how_to_do="1. Lie on your back with legs extended and arms by your sides.\n"
                   "2. Press your forearms into the mat and lift your chest and head.\n"
@@ -328,13 +388,17 @@ yoga_asanas = [
         frequency="4-6 days/week",
         timing="Morning & Evening",
         dietary="Include foods that promote self-acceptance like whole grains and lean proteins, Avoid excessive sugar and processed foods",
-        lifestyle="Practice self-affirmations, Engage in activities that build self-esteem, Limit negative self-talk",
+        lifestyle="Practice self-affirmations, Engage in confidence-building activities, Limit negative self-talk",
         benefits="Opens the chest and lungs, Boosts confidence, Enhances balance, Fosters grace, Reduces feelings of vulnerability"
     ),
     YogaAsana(
         name="Mountain Pose (Tadasana)",
         utterances=[
-            "Those who overthink, ruminate, or experience mental overload often dwell on negative thoughts, leading to anxiety and indecision."
+            "I'm overthinking and mentally overloaded.",
+            "Rumination is affecting my peace of mind.",
+            "Mental overload makes me anxious.",
+            "Struggling with overthinking and ruminating.",
+            "Mental fog from overthinking is overwhelming."
         ],
         how_to_do="1. Stand with feet together, arms at sides.\n"
                   "2. Distribute your weight evenly across both feet.\n"
@@ -349,11 +413,15 @@ yoga_asanas = [
     YogaAsana(
         name="Half Moon Pose (Ardha Chandrasana)",
         utterances=[
-            "Feeling impatient, restless, or in a hurry involves a constant desire for immediate results, difficulty waiting, and a sense of urgency."
+            "I'm feeling impatient and restless.",
+            "Haste makes me anxious.",
+            "Dealing with restlessness and impatience.",
+            "Impatience is affecting my focus.",
+            "Feeling hurried and restless."
         ],
         how_to_do="1. Stand with feet wide apart.\n"
                   "2. Turn the right foot out 90 degrees and the left foot slightly inward.\n"
-                  "3. Shift weight onto the right foot and place the right hand on the mat or a block.\n"
+                  "3. Shift weight onto the right foot and place your right hand on the mat or a block.\n"
                   "4. Lift the left leg parallel to the floor and extend the left arm upward.\n"
                   "5. Hold for 30 seconds to 1 minute, then switch sides.",
         frequency="3-5 days/week",
@@ -363,9 +431,13 @@ yoga_asanas = [
         benefits="Improves balance, Enhances coordination, Stretches the body, Strengthens legs, Encourages mental discipline"
     ),
     YogaAsana(
-        name="Heart Opening Poses (Ustrasana, Bhujangasana)",
+        name="HeartOpening Poses (Ustrasana, Bhujangasana)",
         utterances=[
-            "Those feeling guilt, remorse, or regret often dwell on past actions, leading to persistent self-criticism and emotional pain."
+            "I'm feeling guilty and remorseful.",
+            "Regret is weighing me down emotionally.",
+            "Dealing with shame and embarrassment.",
+            "Feeling humiliated and self-conscious.",
+            "Guilt and regret are affecting my well-being."
         ],
         how_to_do="Camel Pose (Ustrasana):\n"
                   "1. Kneel on the mat with knees hip-width apart.\n"
@@ -386,7 +458,11 @@ yoga_asanas = [
     YogaAsana(
         name="Revolved Chair Pose (Parivrtta Utkatasana)",
         utterances=[
-            "Feeling frustrated, agitated, or irritable involves frequent feelings of annoyance, impatience, and a short temper."
+            "I'm feeling frustrated and agitated.",
+            "Irritability is affecting my mood.",
+            "Dealing with constant frustration and agitation.",
+            "Feeling tense and irritable.",
+            "Frustration makes me restless."
         ],
         how_to_do="1. Stand with feet together.\n"
                   "2. Bend your knees slightly and lower into a squat.\n"
@@ -396,17 +472,40 @@ yoga_asanas = [
         frequency="3-5 days/week",
         timing="Afternoon",
         dietary="Incorporate detoxifying foods like green tea and leafy vegetables, Avoid processed and fried foods",
-        lifestyle="Practice deep breathing and stress management, Engage in problem-solving activities, Maintain a calm environment",
+        lifestyle="Practice deep breathing and stress management techniques, Engage in problem-solving activities, Maintain a calm and organized environment",
         benefits="Detoxifies the body, Enhances balance, Releases tension, Fosters a sense of calm"
+    ),
+    YogaAsana(
+        name="WindRelieving Pose (Pavanamuktasana)",
+        utterances=[
+            "I'm feeling restless and hyperactive.",
+            "Agitation makes it hard to relax.",
+            "Dealing with restlessness and hyperactivity.",
+            "Feeling agitated and unable to calm down.",
+            "Restlessness is affecting my focus."
+        ],
+        how_to_do="1. Lie on your back with legs extended.\n"
+                  "2. Hug your knees into your chest.\n"
+                  "3. Gently rock side to side to massage the spine.\n"
+                  "4. Hold for 1-2 minutes, breathing deeply.",
+        frequency="5 days/week",
+        timing="Throughout the Day",
+        dietary="Incorporate foods that aid digestion like ginger and fennel, Stay hydrated with water and herbal teas",
+        lifestyle="Practice regular relaxation breaks, Engage in calming activities like reading or listening to music, Use stress-relief techniques",
+        benefits="Promotes relaxation, Aids digestion, Releases spinal tension, Calms the mind, Reduces physical agitation"
     ),
     YogaAsana(
         name="Sphinx Pose (Salamba Bhujangasana)",
         utterances=[
-            "Experiencing chronic tension, muscle tightness, or stiffness results in persistent physical discomfort, reduced flexibility, and pain."
+            "I'm experiencing chronic muscle tension.",
+            "Feeling stiff and tense all the time.",
+            "Dealing with persistent muscle tightness.",
+            "Chronic tension is affecting my posture.",
+            "Muscle stiffness makes me uncomfortable."
         ],
-        how_to_do="1. Lie on your stomach with legs extended and tops of the feet pressing into the mat.\n"
-                  "2. Place your forearms on the mat, elbows under shoulders.\n"
-                  "3. Lift your chest off the ground, keeping your neck neutral.\n"
+        how_to_do="1. Lie on your stomach with legs extended and forearms on the mat, elbows under shoulders.\n"
+                  "2. Press into your forearms to lift your chest off the ground.\n"
+                  "3. Keep your shoulders relaxed and gaze forward.\n"
                   "4. Hold for 1-2 minutes, breathing deeply.",
         frequency="5-7 days/week",
         timing="Throughout the Day",
@@ -414,9 +513,11 @@ yoga_asanas = [
         lifestyle="Practice regular stretching breaks, Maintain ergonomic workspace, Use relaxation techniques like deep breathing",
         benefits="Strengthens the spine, Calms the mind, Relieves tension, Promotes flexibility, Releases neck and shoulder tension"
     ),
-
-    # Add other Yoga Asanas here...
+     # Add other Yoga Asanas here...
 ]
+
+   
+
 
 # Cache to store embeddings of utterances
 cached_embeddings = {}
