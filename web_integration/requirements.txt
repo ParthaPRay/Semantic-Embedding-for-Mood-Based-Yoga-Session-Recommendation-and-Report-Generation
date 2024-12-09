@@ -1,6 +1,0 @@
-fastapi
-requests
-uvicorn
-numpy
-reportlab
-gradio
