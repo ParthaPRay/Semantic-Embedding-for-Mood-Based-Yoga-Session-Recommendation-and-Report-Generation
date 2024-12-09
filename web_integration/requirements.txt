@@ -1,0 +1,7 @@
+fastapi
+requests
+uvicorn
+numpy
+reportlab
+gradio
+sqlalchemy
