@@ -3,7 +3,7 @@ This repo shows the codes for Semantic Embedding for Mood-Based Yoga Session Rec
 
 ---
 
-### Proof of Concept
+# Proof of Concept
 
 # Ollama Installation
 
