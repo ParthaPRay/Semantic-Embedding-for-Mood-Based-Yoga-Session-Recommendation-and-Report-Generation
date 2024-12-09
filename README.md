@@ -214,4 +214,43 @@ python3 curl_caller_mood.py
 ![image](https://github.com/user-attachments/assets/184291fe-3d64-4723-9f34-157b2ef75929)
 
 
+---
+
+### For Web Integration
+
+Look into the **web_integration** directory and run the codes accordingly. The web integration uses gradio and sqlalchemiy to use a local database “yoga_interactions.db” having columns such as: id, timestamp, prompt, final_response, pdf_file_path
+
+When ready
+
+![image](https://github.com/user-attachments/assets/96febdd3-efde-43b4-aff1-20f4352ebd4c)
+
+When got response
+
+![image](https://github.com/user-attachments/assets/193969b3-7d5a-48a9-bcce-fb7bad4ec096)
+
+
+**Example**
+
+Example query to be given as input into the gradio:
+
+Modify as per Detailed_Mood_Issue  column of mood_asana_details.csv file 
+
+•	I am feeling anxious, nervous, or uneasy often experience persistent worry, restlessness, and a sense of impending trouble. 
+
+Match with expected output with Mood_Issue column of respective row from mood_asana_details.csv file. Expected Asana: Child Pose (Balasana)
+
+•	I am suffering from insomnia, sleep issues, or nighttime restlessness often face difficulty falling or staying asleep, leading to fatigue and irritability during the day.
+
+Match with expected output with Mood_Issue column of respective row from mood_asana_details.csv file. Expected Asana: Corpse Pose (Savasana)
+
+•	I am dealing with lack of focus, distractibility, or mental fog struggles to concentrate and process information effectively. 
+
+Match with expected output with Mood_Issue column of respective row from mood_asana_details.csv file. Expected Asana: Tree Pose (Vrksasana)
+
+
+Etc…
+
+
+
+
 
